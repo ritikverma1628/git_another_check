@@ -1,1 +1,1 @@
-# Another git check thriugh local repo
+# Another git check through local repo
